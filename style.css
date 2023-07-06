@@ -1,0 +1,10 @@
+body{
+	background-color: #F3F4FD;
+	text-align: center;
+}
+p{
+	margin: 30px 350px 50px 350px;
+}
+iframe{
+	border: 12px solid #104264; 
+}
